@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studding Information System 
-- 🌱 I’m currently learning: JavaScript , React , C and Front-end development
+- 🔭 I’m currently working on my portfolio 
+- 🌱 I’m currently learning: JavaScript , React , Css3
 - 👯 I’m looking to collaborate on  Front-end projects 
-- 🤔 I’m looking for help with JavaScript and C
+- 🤔 I’m looking for help with JavaScript 
 - 💬 Ask me about: ...
 - ⚡ Fun fact: ...
 -->

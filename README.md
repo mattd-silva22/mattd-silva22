@@ -1,11 +1,13 @@
 ## Hi there 👋,  I´m Matheus !
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my portfolio 
-- 🌱 I’m currently learning: JavaScript , React.js , Css3
-- 👯 I’m looking to collaborate on  Front-end projects 
-- 🤔 I’m looking for help with JavaScript and React.js
+- 🔭 I’m currently working on my personal projects and portfolio 
+- 🌱 I’m currently learning: **Event Driven architecture**, **Software Architeture** and **AWS**
+
+## My interests
+
+- Cloud Computing
+- Software Architeture
 
 ### My Tools
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)

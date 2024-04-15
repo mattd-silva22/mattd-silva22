@@ -20,5 +20,5 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### My Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattd-silva22&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattd-silva22&theme=tokyonight&hide=jupyter%20notebook,HTML,css,scss)
 
